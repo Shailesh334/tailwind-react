@@ -7,7 +7,7 @@ const App = () =>{
 
 return (
 
-<div className="min-h-screen bg-slate-600 flex flex-col justify-between">  
+<div className="min-h-screen bg-slate-700 transpatrent flex flex-col justify-between">  
   <Navbar/>
   <Hero />
   <Footer/>   
