@@ -11,7 +11,6 @@ return (
   <Navbar/>
   <Hero />
   <Footer/>   
-
 </div>
 
 
