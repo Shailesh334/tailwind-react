@@ -3,7 +3,7 @@ const Navbar = ()=>{
 
     return (
 
-    <div className="flex justify-between items-center bg-slate-800 text-white p-5">
+    <div className="flex justify-between items-center bg-slate-800 text-white p-5 sticky z-10 top-0 ">
         <div>
             Logo
         </div>
